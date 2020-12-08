@@ -11,6 +11,6 @@ Features:
   * Wobble
 
 How to use:
-  In blender bind the 2nd mesh to the main mesh's armature
-  Export to Unity
-  Apply shader to 2nd mesh
+  * In blender bind the 2nd mesh to the main mesh's armature
+  * Export to Unity
+  * Apply shader to 2nd mesh
